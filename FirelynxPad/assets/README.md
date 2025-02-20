@@ -21,11 +21,11 @@ From grant:
 - Sheet of foam for sound padding
 
 # Schematic
-![alt text](image.png)
+![image_alt](image.png)
 
 # PCB
-![alt text](image-1.png)
+![image_alt(image-1.png)
 Want the PCB in black color
 # Case
-![alt text](image-2.png)
+![image_alt]([image-2.png](https://github.com/firelynx5958/FirelynxPad/blob/main/image-2%20copy.png?raw=true))
 I just want the bottom case in black color
