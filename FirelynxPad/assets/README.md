@@ -21,7 +21,7 @@ From grant:
 - Sheet of foam for sound padding
 
 # Schematic
-![image_alt](image.png)
+![image_alt](https://github.com/firelynx5958/FirelynxPad/blob/9d8760688513fb98f53e0134b9570e43cd838019/schematic%20copy.png)
 
 # PCB
 ![image_alt](https://github.com/firelynx5958/FirelynxPad/blob/7fbc60baccb793da0f52d7f45fc3d338d035af2a/pcb%20copy.png)
