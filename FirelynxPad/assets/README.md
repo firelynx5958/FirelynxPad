@@ -27,5 +27,5 @@ From grant:
 ![image_alt](https://github.com/firelynx5958/FirelynxPad/blob/7fbc60baccb793da0f52d7f45fc3d338d035af2a/pcb%20copy.png)
 Want the PCB in black color
 # Case
-![image_alt]([image-2.png](https://github.com/firelynx5958/FirelynxPad/blob/main/image-2%20copy.jpeg?raw=true))
+![image_alt](https://github.com/firelynx5958/FirelynxPad/blob/79f5490eee7dc2d7f8d23c593d6730654ee28c3e/image-2%20copy.png)
 I just want the bottom case in black color
