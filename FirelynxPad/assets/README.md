@@ -24,7 +24,7 @@ From grant:
 ![image_alt](image.png)
 
 # PCB
-![image_alt(https://github.com/firelynx5958/FirelynxPad/blob/7fbc60baccb793da0f52d7f45fc3d338d035af2a/pcb%20copy.png)
+![image_alt](https://github.com/firelynx5958/FirelynxPad/blob/7fbc60baccb793da0f52d7f45fc3d338d035af2a/pcb%20copy.png)
 Want the PCB in black color
 # Case
 ![image_alt]([image-2.png](https://github.com/firelynx5958/FirelynxPad/blob/main/image-2%20copy.jpeg?raw=true))
