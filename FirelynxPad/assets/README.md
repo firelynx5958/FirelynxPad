@@ -27,5 +27,5 @@ From grant:
 ![image_alt(image-1.png)
 Want the PCB in black color
 # Case
-![image_alt]([image-2.png](https://github.com/firelynx5958/FirelynxPad/blob/main/image-2%20copy.png?raw=true))
+![image_alt]([image-2.png](https://github.com/firelynx5958/FirelynxPad/blob/main/image-2%20copy.jpeg?raw=true))
 I just want the bottom case in black color
